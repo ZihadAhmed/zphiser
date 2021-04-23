@@ -260,9 +260,11 @@ about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
 		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
+		${GREEN}Github   ${RED}:  ${CYAN}https:https://github.com/ZihadAhmed
+		
+		${GREEN}Social   ${RED}:  ${CYAN} Taligram id = @ZihadAhmed
 		${GREEN}Version  ${RED}:  ${ORANGE}2.1
+		
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
 								  DarkSecDevelopers,Mustakim Ahmed ${RESETBG}
