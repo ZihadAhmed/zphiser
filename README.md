@@ -38,7 +38,7 @@
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/ZihadAhmed/zphiser
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
@@ -51,8 +51,8 @@ $ bash zphisher.sh
 
 ### Run on Docker
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull ZihadAhmed/zphisher
+$ docker run --rm -it ZihadAhmed/zphisher
 ```
 
 ### Dependencies
