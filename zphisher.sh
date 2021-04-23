@@ -153,9 +153,10 @@ banner() {
 		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
 		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.1
+		${ORANGE}      |_|                ${RED}Version : 2.1 specially made - Yasin
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by dark shadow (zihadahmed)${WHITE}
+		
 	EOF
 }
 
