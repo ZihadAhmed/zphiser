@@ -153,7 +153,7 @@ banner() {
 		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
 		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.1 specially made - Yasin
+		${ORANGE}      |_|                ${RED}Version : 2.1 specially made For Yasin
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by dark shadow (zihadahmed)${WHITE}
 		
@@ -260,16 +260,15 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
+		${GREEN}Author   ${RED}:  ${ORANGE} ZihadAhmed ${RED}[ ${ORANGE}Dark Shadow ${RED}]
 		${GREEN}Github   ${RED}:  ${CYAN}https:https://github.com/ZihadAhmed
 		
 		${GREEN}Social   ${RED}:  ${CYAN} Taligram id = @ZihadAhmed
 		${GREEN}Version  ${RED}:  ${ORANGE}2.1
 		
 
-		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
-								  DarkSecDevelopers,Mustakim Ahmed ${RESETBG}
-
+		${REDBG}${WHITE} Thanks :^_^Yasin(Brother)^_^ And Hridoy Brother Thanks For support
+		
 		${RED}[${WHITE}00${RED}]${ORANGE} Main Menu     ${RED}[${WHITE}99${RED}]${ORANGE} Exit
 
 	EOF
